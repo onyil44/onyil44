@@ -40,7 +40,7 @@ Currently, I’m developing **booking systems, ERP solutions, and project manage
 ## 🌍 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/onur-y%C4%B1lmaz-b8650b324/)  
-- ✉️ Email: **onur@onyilprojects.com** (or your professional email)  
+- ✉️ Email: **onur@onyilprojects.com**
 - 🌐 Portfolio:
     -[Booking App](https://bungalow.onyilprojects.com)
 
